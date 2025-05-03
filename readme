@@ -1,0 +1,31 @@
+🏗️ Structure
+The webpage is a personal portfolio built using HTML and organized into multiple sections with semantic tags for clarity and accessibility.
+
+🔝 Navbar (<nav>)
+Contains anchor links to jump to different sections of the page: Home, About, Work, Resume, and Contact.
+
+🏠 Home Section
+Welcomes visitors with a heading and a brief personal introduction.
+
+👤 About Section
+Introduces the developer's passion for front-end development.
+
+Includes a video (demo.mp4) showcasing skills or a project.
+
+💼 Work Section
+Displays a list of three sample projects using an unordered list.
+
+📄 Resume Section
+Uses a table to list work experience, positions, and years.
+
+Features an audio player (intro.mp3) for voice introduction or background information.
+
+📬 Contact Section
+A form that collects user name, email, and message.
+
+Submits data to submit.html using the POST method.
+
+⚓ Footer
+Contains a copyright
+
+protfolio.png
